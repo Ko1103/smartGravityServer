@@ -1,0 +1,6 @@
+hash: 5980c5b4e9083617a6767b16f03b405331817fbb82fb88f58df8829efe9eaf94
+updated: 2018-06-29T16:18:10.986816+09:00
+imports:
+- name: github.com/kardianos/govendor
+  version: 9a2e603240c8c945d098dbd2ce3249ee46bde4e7
+testImports: []
